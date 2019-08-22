@@ -1,5 +1,3 @@
-# VB.Net-Themes Collections
+# VB.Net-Themes Collection
 
-*Do not remove, change, or hide any credits of the Themes or style.
-
-https://www.almaftuchin.com
+*None of the themes within this repository are owned or licensed by me. These are available for public use as long as individuals agree to and abide by the license(s) provided within each individual theme. I am not responsible for any misuse, wrongful distribution, copyright infringement, or illicit/illegal actions taken by individuals that utilize these themes.
