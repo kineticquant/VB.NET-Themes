@@ -1,13 +1,5 @@
 ﻿Imports System.Drawing.Drawing2D
 
-'
-'
-'Created By Marvinn (HF)
-'Need Any help feel free to mail/pm me (marvinzwolsman@hotmail.com)
-'Please give propper credits!
-'11/5/2011 22:30 (Dutch/Netherlands)
-'
-'
 Public Class CypherxButton
     Inherits Control
 
